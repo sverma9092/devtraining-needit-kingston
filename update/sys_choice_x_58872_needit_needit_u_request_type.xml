@@ -11,13 +11,32 @@
             <name>x_58872_needit_needit</name>
             <sequence>0</sequence>
             <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2018-09-18 19:52:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd775b36c4642300964f6aa57372175f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2018-09-18 19:52:12</sys_updated_on>
+            <value>HR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>HR</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>maint</sys_created_by>
             <sys_created_on>2018-09-18 01:09:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>5296d7aac4602300964f6aa573721704</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>maint</sys_updated_by>
-            <sys_updated_on>2018-09-18 01:09:57</sys_updated_on>
+            <sys_updated_on>2018-09-18 19:52:12</sys_updated_on>
             <value>human resources</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
